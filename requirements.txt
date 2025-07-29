@@ -1,2 +1,6 @@
 streamlit
 pandas
+numpy
+yfinance
+plotly
+urllib3
